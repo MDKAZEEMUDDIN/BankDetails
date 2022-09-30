@@ -18,13 +18,13 @@ namespace Bank
             b.Noofmanager = 1;
             b.Nonmanager = 0;
             b.Noofclerck = 5;
-            Console.WriteLine(" "+b.customerId);
-            Console.WriteLine(""+b.customerName);
-            Console.WriteLine(""+b.Numberofcustomer);
-            Console.WriteLine(""+b.Numberofemployee);
-            Console.WriteLine(""+b.Noofmanager);
-            Console.WriteLine(""+b.Nonmanager);
-            Console.WriteLine(""+b.Noofclerck);
+            Console.WriteLine("Customer id is :  "+b.customerId);
+            Console.WriteLine("Customer Name is :"+b.customerName);
+            Console.WriteLine("Number of customer is :"+b.Numberofcustomer);
+            Console.WriteLine("Number of employees is :"+b.Numberofemployee);
+            Console.WriteLine("Number of Manager is :"+b.Noofmanager);
+            Console.WriteLine("Number of non manager is :"+b.Nonmanager);
+            Console.WriteLine("Number of clerck is :"+b.Noofclerck);
             Console.WriteLine(b.result);
             b.Add();
     }
