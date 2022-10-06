@@ -1,0 +1,8 @@
+C:\Practice program\Tryandcatchblock\Tryandcatchblock\bin\Debug\Tryandcatchblock.exe.config
+C:\Practice program\Tryandcatchblock\Tryandcatchblock\bin\Debug\Tryandcatchblock.exe
+C:\Practice program\Tryandcatchblock\Tryandcatchblock\bin\Debug\Tryandcatchblock.pdb
+C:\Practice program\Tryandcatchblock\Tryandcatchblock\obj\Debug\Tryandcatchblock.csproj.AssemblyReference.cache
+C:\Practice program\Tryandcatchblock\Tryandcatchblock\obj\Debug\Tryandcatchblock.csproj.SuggestedBindingRedirects.cache
+C:\Practice program\Tryandcatchblock\Tryandcatchblock\obj\Debug\Tryandcatchblock.csproj.CoreCompileInputs.cache
+C:\Practice program\Tryandcatchblock\Tryandcatchblock\obj\Debug\Tryandcatchblock.exe
+C:\Practice program\Tryandcatchblock\Tryandcatchblock\obj\Debug\Tryandcatchblock.pdb

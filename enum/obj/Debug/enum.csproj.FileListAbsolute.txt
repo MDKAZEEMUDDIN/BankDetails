@@ -1,0 +1,8 @@
+C:\Practice program\enum\enum\bin\Debug\@enum.exe.config
+C:\Practice program\enum\enum\bin\Debug\@enum.exe
+C:\Practice program\enum\enum\bin\Debug\@enum.pdb
+C:\Practice program\enum\enum\obj\Debug\enum.csproj.AssemblyReference.cache
+C:\Practice program\enum\enum\obj\Debug\enum.csproj.SuggestedBindingRedirects.cache
+C:\Practice program\enum\enum\obj\Debug\enum.csproj.CoreCompileInputs.cache
+C:\Practice program\enum\enum\obj\Debug\@enum.exe
+C:\Practice program\enum\enum\obj\Debug\@enum.pdb
